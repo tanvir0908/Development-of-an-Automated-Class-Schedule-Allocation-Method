@@ -1,5 +1,5 @@
 Students of different trimesters need to select courses of their own choice in an open credit
-university. They need to choose their selections against each course on their own from the
+university. They need to choose their sections against each course on their own from the
 university provided section list, the process is known as ”Advising”. It is very burdensome
 and also stressful for students to create a suitable class routine manually. Most of the time,
 two or more classes conflict with one another, which makes it impossible to register for
