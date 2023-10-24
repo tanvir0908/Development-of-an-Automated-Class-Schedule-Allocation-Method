@@ -1,3 +1,5 @@
+## Thesis Paper: https://github.com/tanvir0908/Development_of_an_Automated_Class_Schedule_Allocation_Method/blob/main/Report.pdf
+
 Students of different trimesters need to select courses of their own choice in an open credit
 university. They need to choose their sections against each course on their own from the
 university provided section list, the process is known as ”Advising”. It is very burdensome
